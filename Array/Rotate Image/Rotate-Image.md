@@ -33,7 +33,7 @@ After transposition, it becomes:
 3 6 9
 ```
 
-2. **Reverse Each Row:
+2. **Reverse Each Row**:
    After transposing the matrix, each row is reversed. This will effectively rotate the matrix by 90 degrees clockwise. We swap the elements at the start and end of each row, moving towards the center.
 
    ```java
